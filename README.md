@@ -1,7 +1,3 @@
-Here is your complete **OrderBot Operation Manual**. You can save this as a `README.md` file in your project folder for future reference.
-
----
-
 # 🤖 OrderBot Operation Manual
 
 **Version:** 1.0 (Ngrok Deployment)
